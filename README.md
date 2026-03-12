@@ -1,6 +1,6 @@
 # BTCMaxis.com & Bitcoinfo.org
 
-We're forking Lopps content to a new resource list at [https://btcmaxis.com](https://btcmaxis.com). I need help vetting it for Bitcoin maximalism and removing anything we wouldn't want to direct a noobie to, especially shitcoins, and add context and warnings on the occasions we feel it necessary they slip through.
+We're forking Lopps content to a new resource list at [https://btcmaxis.com](https://btcmaxis.com) and [https://bitcoinfo.org](https://bitcoinfo.org). I need help vetting it for Bitcoin maximalism and removing anything we wouldn't want to direct a noobie to, especially shitcoins, and add context and warnings on the occasions we feel it necessary they slip through.
 
 You can help at [https://github.com/MrRGnome/btc-resources](https://github.com/MrRGnome/btc-resources) by going through the resources in bitcoin-information folder and removing/adding links and descriptions as necessary.
 
